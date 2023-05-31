@@ -1,4 +1,5 @@
-i_am_hungry = False
+#FEED ME I AM HUNGRY YA BASTARD
+i_am_hungry = True
 
 if i_am_hungry:
 print("Feed me, Seymour!")
